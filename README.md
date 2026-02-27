@@ -62,4 +62,4 @@ Tables used:
 
 ## 📁 Files Included
 
-- `SQL-PROJECT.sql` → Table creation and analysis queries
+- `online-bookstore-analysis.sql` → Table creation and analysis queries
